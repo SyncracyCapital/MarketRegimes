@@ -105,7 +105,6 @@ notebook_shim==0.2.2
 oandapyV20==0.6.3
 oauthlib==3.2.2
 onetimepass==1.0.1
-openbb==0.0.1
 openpyxl==3.0.10
 pandas-datareader==0.10.0
 pandas-market-calendars==3.2
