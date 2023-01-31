@@ -21,7 +21,6 @@ blinker==1.5
 bs4==0.0.1
 bt==0.2.9
 cachetools==5.2.0
-ccxt==1.95.43
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
