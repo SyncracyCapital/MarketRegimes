@@ -182,7 +182,7 @@ squarify==0.4.3
 sseclient==0.0.27
 statsmodels==0.13.2
 stocksera==0.1.21
-streamlit==1.15.1
+streamlit
 tabulate==0.9.0
 temporal-cache==0.1.4
 tenacity==8.1.0
